@@ -1,10 +1,10 @@
 CLI: revanced-cli-2.15.0-all.jar  
-Integrations: app-release-unsigned-v0.59.0.apk  
-Patches: revanced-patches-2.95.0.jar  
+Integrations: app-release-unsigned-v0.62.0.apk  
+Patches: revanced-patches-2.98.0.jar  
 
-### [2.95.0](https://github.com/revanced/revanced-patches/compare/v2.94.0...v2.95.0) (2022-10-28)
+### [2.98.0](https://github.com/revanced/revanced-patches/compare/v2.97.0...v2.98.0) (2022-10-29)
 ### Features
-* **youtube:** bump patches compatibility to v17.41.37 ([#888](https://github.com/revanced/revanced-patches/issues/888)) ([11ed0c0](https://github.com/revanced/revanced-patches/commit/11ed0c0fb3236d87284806d2fa957699e908cc61))
+* **youtube/comments:** hide shorts comments button ([#866](https://github.com/revanced/revanced-patches/issues/866)) ([c78a74e](https://github.com/revanced/revanced-patches/commit/c78a74e21b4521034f44e9bfd226c5a362c21e6c))
 
   
 YouTube: 17.41.37  
