@@ -8,9 +8,9 @@ Patches: revanced-patches-2.104.0.jar
 
   
 **App Versions:**  
-Music (arm-v7a): 5.31.50  
 YouTube: 17.43.36  
-Twitter: 9.65.1-release.0  
+Music (arm-v7a): 5.31.50  
+Twitter: 9.65.3-release.0  
 Reddit: 2022.41.1  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
