@@ -1,15 +1,15 @@
-CLI: revanced-cli-2.16.1-all.jar  
-Integrations: app-release-unsigned-v0.71.0.apk  
-Patches: revanced-patches-2.111.3.jar  
+CLI: revanced-cli-2.17.0-all.jar  
+Integrations: app-release-unsigned-v0.74.0.apk  
+Patches: revanced-patches-2.114.1.jar  
 
-#### [2.111.3](https://github.com/revanced/revanced-patches/compare/v2.111.2...v2.111.3) (2022-11-18)
+#### [2.114.1](https://github.com/revanced/revanced-patches/compare/v2.114.0...v2.114.1) (2022-11-20)
 ### Bug Fixes
-* **youtube/litho-filter:** use correct type for switch case ([#1068](https://github.com/revanced/revanced-patches/issues/1068)) ([ab03511](https://github.com/revanced/revanced-patches/commit/ab03511e23d07c7c40b58eae5791fb2a798289de))
+* **tiktok/settings:** make compatible with newer versions ([#1057](https://github.com/revanced/revanced-patches/issues/1057)) ([e1d5d64](https://github.com/revanced/revanced-patches/commit/e1d5d6492ed660f43c87c796a59e766ea6b8ead0))
 
   
 **App Versions:**  
-Music (arm-v7a): 5.31.50  
 YouTube: 17.43.36  
+Music (arm-v7a): 5.31.50  
 Twitter: 9.65.5-release.0  
 Reddit: 2022.43.0  
 
