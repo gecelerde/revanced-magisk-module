@@ -1,6 +1,6 @@
 {
-  "version": "v6.08.50",
-  "versionCode": 116,
-  "zipUrl": "https://github.com/gecelerde/revanced-magisk-module/releases/download/116/music-revanced-magisk-v6.08.50-arm64-v8a.zip",
+  "version": "v6.10.51",
+  "versionCode": 117,
+  "zipUrl": "https://github.com/gecelerde/revanced-magisk-module/releases/download/117/music-revanced-magisk-v6.10.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/gecelerde/revanced-magisk-module/update/build.md"
 }
