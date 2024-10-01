@@ -1,22 +1,25 @@
 CLI: revanced-cli-4.6.0-all.jar  
-Integrations: revanced-integrations-1.14.2.apk.asc  
-Patches: revanced-patches-4.15.0.jar.asc  
+Integrations: revanced-integrations-1.15.0.apk.asc  
+Patches: revanced-patches-4.16.0.jar.asc  
 
-### [4.15.0](https://github.com/ReVanced/revanced-patches/compare/v4.14.1...v4.15.0) (2024-09-23)
+### [4.16.0](https://github.com/ReVanced/revanced-patches/compare/v4.15.0...v4.16.0) (2024-09-30)
+
+
 ### Bug Fixes
-* **TikTok - Playback speed:** Prevent crash by fixing invalid patch ([82d53cb](https://github.com/ReVanced/revanced-patches/commit/82d53cbc3bbfa585ba4337fdfaec9f0f19c802e6))
-* **TikTok - Settings:** Prevent crash by fixing invalid patch ([8074032](https://github.com/ReVanced/revanced-patches/commit/8074032fad3eff1c03296a882d2e2820da99b592))
-* **Twitter - Open links with app chooser:** Constrain patch to last working version `10.48.0-release` ([b9955d5](https://github.com/ReVanced/revanced-patches/commit/b9955d5ff6e456593b01f0f25d80ff660d02082a))
-* **YouTube - Spoof video streams:** Change default client type to Android VR ([74c8637](https://github.com/ReVanced/revanced-patches/commit/74c8637943347078955f51325bc6af92a35d4463))
-* **YouTube - Spoof video streams:** Change default client type to Android VR ([#3672](https://github.com/ReVanced/revanced-patches/issues/3672)) ([a3306f6](https://github.com/ReVanced/revanced-patches/commit/a3306f6717a09b734354f00363a96abad0ae14e7))
-### Features
-* **TikTok:** Bump patches to support the latest version 36.5.4 ([e5dcb72](https://github.com/ReVanced/revanced-patches/commit/e5dcb72597092fb32003f11fdf6f861ede4e7ff3))
 
-  
+* **Soundcloud:** Support latest versions ([#3702](https://github.com/ReVanced/revanced-patches/issues/3702)) ([099ac5e](https://github.com/ReVanced/revanced-patches/commit/099ac5ea2cf55633a7c6a7e6f8e963599bcd5784))
+* **Twitter - Open links with app chooser:** Fix incorrect version in compatibility list ([#3683](https://github.com/ReVanced/revanced-patches/issues/3683)) ([adafe85](https://github.com/ReVanced/revanced-patches/commit/adafe85d77f6a0031a5523b9b7da69475959d78d))
+* **YouTube - SponsorBlock:** Fade out SB buttons without overlapping other buttons ([#3719](https://github.com/ReVanced/revanced-patches/issues/3719)) ([bf96108](https://github.com/ReVanced/revanced-patches/commit/bf9610894f0a9f9e751e2eed5b825c5d327a722c))
+* **YouTube:** Show video chapter titles without clipping when overlay buttons are enabled ([#3674](https://github.com/ReVanced/revanced-patches/issues/3674)) ([4b88c31](https://github.com/ReVanced/revanced-patches/commit/4b88c316ed90c56e83e2aee266561833b36fc37d))
+
+
+### Features
+
+* **Google Photos:** Restore hidden 'Back up while charging' toggle ([#3678](https://github.com/ReVanced/revanced-patches/issues/3678)) ([f9e19ce](https://github.com/ReVanced/revanced-patches/commit/f9e19ce6e9185fdf31b2b0d5f2934f6e8a544b8e))
+* **YouTube - Disable precise seeking gesture:** Hide \n  
 **App Versions:**  
-YouTube: 19.38.35  
-Music (arm64-v8a): 7.19.51  
-Music (arm-v7a): 7.19.51  
+Music (arm64-v8a): 7.21.50  
+TikTok: 36.7.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
